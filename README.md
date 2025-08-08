@@ -19,5 +19,5 @@ git commit
 ```
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-This is a example of/
+This is a example of  
 github documentation 
