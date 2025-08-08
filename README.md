@@ -4,7 +4,9 @@
 #### hello Divya 
 ##### Hello Divya
 ###### Hello Divya
-** this is bold text or message **
-* this is italic *
-  ~~ this iw word which you want ~~
-  
+**this is bold text or message**
+*this is italic*
+~~this iw word which you want~~ 
+**Hello _divya_ How are you**
+***All bold and italic***
+This text is <sub>subscript</sub>
