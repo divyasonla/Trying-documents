@@ -11,3 +11,9 @@
 ***All bold and italic***
 This text is <sub>subscript</sub>
 >This text  is a quoat
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
