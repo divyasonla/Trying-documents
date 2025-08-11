@@ -32,3 +32,21 @@ github documentation
    - First nested list item
      - Second nested list item
        - third nested list item
+
+# Invoicing App
+The Invoicing Application is a full-stack solution for creating, managing, and exporting invoices, with built-in support for India’s GST-compliant e-invoicing system.
+## Tech Stack
+** Backend **
+* Flask
+* Peewee ORM
+* WeasyPrint
+** Frontend **
+* Flask Jinja2 *
+* Tailwindcss
+* Vanilla JavaScript
+** Integration **
+* Indian e-invoice API
+** Testing & Tools **
+* Bruno
+* SQLite
+  
